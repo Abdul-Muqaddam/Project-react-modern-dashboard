@@ -11,7 +11,7 @@ export default {
         "custom-gradient":"linear-gradient(315deg,rgba(255,255,255,0.1)0%,rgba(255,255,255,1)100%)",
         "gradient-button":"linear-gradient(180deg,rgba(61, 66, 68, 0)0%,rgba(158, 170, 176,0.62)100%),linear-gradient(0deg,rgba(39, 55, 207,0)0%,rgba(189, 252, 254,0.2)100%)",
         "left-dashboard-gradient":"linear-gradient(90deg,rgba(38,112,233,0.3)0%,rgba(38,112,233,0)100% )",
-        "blue-gradient":"radial-gradient(rgba(31,143,255,0.5),rgba(31,143,255,0))"
+        "blue-gradient":"radial-gradient(rgba(31,143,255,0.4),rgba(31,143,255,0))"
       },
       backgroundColor:{
         "custom-black":"#000000"
